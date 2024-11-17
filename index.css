@@ -78,14 +78,14 @@ header h2 {
   align-items: center;
   font-size: 30px;
   cursor: pointer;
-  box-shadow: 0px 10px 0 #09898c;
+  box-shadow: 0px 10px 0 #11a0a3;
 }
 
 .button:hover {
   background-color: #0a939e;
 }
 .button:active {
-  box-shadow: 0px 5px 0 #09898c;
+  box-shadow: 0px 5px 0 #11a0a3;
   transform: translateY(5px);
   -webkit-transform: translateY();
   -moz-transform: translateY();
